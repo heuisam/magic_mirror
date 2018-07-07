@@ -1,11 +1,16 @@
-#### TOP BUTTOM VIEW
-![TOP](./image/top_view.png)
+## FRAME
 #### FRONT VIEW
 ![FRONT](./image/front_view.png)
-#### LEFT RIGHT VIEW
-![LEFT_RIGHT](./image/left_right_view.png)
+
 #### BACK VIEW
 ![BACK](./image/back_view.png)
+
+#### TOP BUTTOM VIEW
+![TOP](./image/top_view.png)
+
+#### LEFT RIGHT VIEW
+![LEFT_RIGHT](./image/left_right_view.png)
+
 
 ## Wood Frame
 ![WOOD_FRAME](./image/wood_frame.png)
